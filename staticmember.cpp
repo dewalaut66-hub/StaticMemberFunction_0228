@@ -3,7 +3,7 @@ using namespace std;
 
 class Mahasiswa { //membuat classmahasiswa
     
-pupblic:
+public:
     static int nim; //deklarasi veriabel static yaitu variabel nim
     //deklarasi variabel member
     int id;
